@@ -1,9 +1,9 @@
-# Meshtastic-ESP32C3-SuperMini- DX LR30 SX1262
+# MeshCore-ESP32C3-SuperMini- DX LR30 SX1262 // TheGhost1337 Version 
 <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/webp/meshcore-dark.webp" alt="Meshtastic Logo" width="200">
 Configuración de pines, variante de PlatformIO y guía de conexión para crear un nodo Meshtastic de bajo consumo usando un ESP32-C3 SuperMini y el módulo LoRa DX-LR30 (SX1262).
 
-## 🇪🇸 Descripción
-Este repositorio contiene los archivos de configuración necesarios (`variant.h`, `pins_arduino.h` y `platformio.ini`) para compilar el firmware de **Meshtastic** en un nodo DIY construido con:
+## 🇩🇪 Beschreibung
+Dieses Repository enthält die erforderlichen Konfigurationsdateien (`variant.h`, `pins_arduino.h` und `platformio.ini`) für die Kompilierung der **Meshtastic**-Firmware für einen selbstgebauten Node, der aus den folgenden Komponenten besteht:
 * **MCU:** ESP32-C3 SuperMini (Nologo/Genérico)
 * **Radio LoRa:** DX-LR30 (SX1262) - (AliExpress: https://a.aliexpress.com/_EHXjuJI)
 
@@ -81,4 +81,6 @@ This repository hosts the necessary configuration files to compile **Meshtastic*
 * **Compilation Error `pins_arduino.h not found`**: Ensure you copied the `pins_arduino.h` provided in this repo to the variant folder.
 
 ---
-*Happy Meshing!*
+*Happy Meshing!* 
+
+I, TheGhost1337, am not the original creator of this awesome project! Check out the original repo for official updates 
