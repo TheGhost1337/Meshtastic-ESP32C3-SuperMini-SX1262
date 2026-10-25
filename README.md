@@ -1,5 +1,5 @@
 # Meshtastic-ESP32C3-SuperMini- DX LR30 SX1262
-<img src="https://meshtastic.org/design/logo/svg/Mesh_Logo_Black.svg" alt="Meshtastic Logo" width="200">
+<img src="https://cdn.jsdelivr.net/gh/selfhst/icons/webp/meshcore-dark.webp" alt="Meshtastic Logo" width="200">
 Configuración de pines, variante de PlatformIO y guía de conexión para crear un nodo Meshtastic de bajo consumo usando un ESP32-C3 SuperMini y el módulo LoRa DX-LR30 (SX1262).
 
 ## 🇪🇸 Descripción
